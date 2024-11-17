@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67391d9cc5ebc9dee0799ed2"
+  },
+  "Nombre": "Diego Andrés Chamorro",
+  "Edad": 20,
+  "Posicion": "Delantero",
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec2"
+  }
+},
+{
+  "_id": {
+    "$oid": "67391d9cc5ebc9dee0799ed3"
+  },
+  "Nombre": "Santiago Merchán",
+  "Edad": 20,
+  "Posicion": "Delantero",
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec3"
+  }
+},
+{
+  "_id": {
+    "$oid": "67391d9cc5ebc9dee0799ed4"
+  },
+  "Nombre": "Iván Daniel Lopez",
+  "Edad": 20,
+  "Posicion": "Mediocampista",
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec4"
+  }
+},
+{
+  "_id": {
+    "$oid": "67391d9cc5ebc9dee0799ed5"
+  },
+  "Nombre": "Felipe Sandoval",
+  "Edad": 19,
+  "Posicion": "Centrocampista",
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec5"
+  }
+},
+{
+  "_id": {
+    "$oid": "67391d9cc5ebc9dee0799ed6"
+  },
+  "Nombre": "Luvin Gomez",
+  "Edad": 18,
+  "Posicion": "Defensor",
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec6"
+  }
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "673916a6c5ebc9dee0799e95"
+  },
+  "Equipos": [
+    {
+      "$oid": "61d74d8233c9f0547630c563"
+    },
+    {
+      "$oid": "61d74d8233c9f0547630c564"
+    }
+  ],
+  "Fecha": "2024-11-22  3:00 PM",
+  "Resultado": {
+    "Equipo1": 1,
+    "Equipo2": 2
+  },
+  "Arbitro": {
+    "$oid": "67390df3c5ebc9dee0799e81"
+  },
+  "Lugar": "Kennedy Central",
+  "Fase": "Fase de Grupos"
+},
+{
+  "_id": {
+    "$oid": "673916a6c5ebc9dee0799e96"
+  },
+  "Equipos": [
+    {
+      "$oid": "61d74d8233c9f0547630c565"
+    },
+    {
+      "$oid": "61d74d8233c9f0547630c566"
+    }
+  ],
+  "Fecha": "2024-11-23 6:00 PM",
+  "Resultado": {
+    "Equipo1": 1,
+    "Equipo2": 1
+  },
+  "Arbitro": {
+    "$oid": "67390df3c5ebc9dee0799e82"
+  },
+  "Lugar": "Kennedy Central",
+  "Fase": "Fase de Grupos"
+},
+{
+  "_id": {
+    "$oid": "673916a6c5ebc9dee0799e97"
+  },
+  "Equipos": [
+    {
+      "$oid": "61d74d8233c9f0547630c564"
+    },
+    {
+      "$oid": "61d74d8233c9f0547630c565"
+    }
+  ],
+  "Fecha": "2024-11-24 7:00 PM",
+  "Resultado": {
+    "Equipo1": 2,
+    "Equipo2": 3
+  },
+  "Arbitro": {
+    "$oid": "67390df3c5ebc9dee0799e83"
+  },
+  "Lugar": "Kennedy Central",
+  "Fase": "Fase de Grupos"
+}]

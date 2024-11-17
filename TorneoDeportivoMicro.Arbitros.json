@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67390df3c5ebc9dee0799e81"
+  },
+  "Nombre": "Carlos Alberto Gómez",
+  "Edad": 45,
+  "Experiencia": "15 años",
+  "Especialidad": "Árbitro Principal",
+  "PartidosDirigidos": 120
+},
+{
+  "_id": {
+    "$oid": "67390df3c5ebc9dee0799e82"
+  },
+  "Nombre": "Laura Martínez",
+  "Edad": 32,
+  "Experiencia": "8 años",
+  "Especialidad": "Árbitro Asistente",
+  "PartidosDirigidos": 80
+},
+{
+  "_id": {
+    "$oid": "67390df3c5ebc9dee0799e83"
+  },
+  "Nombre": "Ricardo López",
+  "Edad": 38,
+  "Experiencia": "10 años",
+  "Especialidad": "Árbitro Principal",
+  "PartidosDirigidos": 95
+},
+{
+  "_id": {
+    "$oid": "67390df3c5ebc9dee0799e84"
+  },
+  "Nombre": "Fernanda Pérez",
+  "Edad": 29,
+  "Experiencia": "6 años",
+  "Especialidad": "Árbitro Asistente",
+  "PartidosDirigidos": 50
+}]

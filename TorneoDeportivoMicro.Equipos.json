@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "67391c74c5ebc9dee0799ec2"
+  },
+  "Nombre": "FC Barcelona",
+  "Ciudad": "Bogotá"
+},
+{
+  "_id": {
+    "$oid": "67391c74c5ebc9dee0799ec3"
+  },
+  "Nombre": "Real Madrid",
+  "Ciudad": "Bogotá"
+},
+{
+  "_id": {
+    "$oid": "67391c74c5ebc9dee0799ec4"
+  },
+  "Nombre": "Liverpool",
+  "Ciudad": "Bogotá"
+},
+{
+  "_id": {
+    "$oid": "67391c74c5ebc9dee0799ec5"
+  },
+  "Nombre": "Manchester City",
+  "Ciudad": "Bogotá"
+},
+{
+  "_id": {
+    "$oid": "67391c74c5ebc9dee0799ec6"
+  },
+  "Nombre": "Bayern Munich",
+  "Ciudad": "Bogotá"
+}]

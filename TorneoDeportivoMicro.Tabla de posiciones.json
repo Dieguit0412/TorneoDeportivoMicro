@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "673917cfc5ebc9dee0799ea4"
+  },
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec2"
+  },
+  "Puntos": 6,
+  "PartidosJugados": 2,
+  "Ganados": 2,
+  "Empatados": 0,
+  "Perdidos": 0,
+  "GolesAFavor": 5,
+  "GolesEnContra": 2,
+  "DiferenciaGoles": 3
+},
+{
+  "_id": {
+    "$oid": "673917cfc5ebc9dee0799ea5"
+  },
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec3"
+  },
+  "Puntos": 3,
+  "PartidosJugados": 2,
+  "Ganados": 1,
+  "Empatados": 0,
+  "Perdidos": 1,
+  "GolesAFavor": 4,
+  "GolesEnContra": 3,
+  "DiferenciaGoles": 1
+},
+{
+  "_id": {
+    "$oid": "673917cfc5ebc9dee0799ea6"
+  },
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec4"
+  },
+  "Puntos": 1,
+  "PartidosJugados": 2,
+  "Ganados": 0,
+  "Empatados": 1,
+  "Perdidos": 1,
+  "GolesAFavor": 3,
+  "GolesEnContra": 4,
+  "DiferenciaGoles": -1
+},
+{
+  "_id": {
+    "$oid": "673917cfc5ebc9dee0799ea7"
+  },
+  "Equipo": {
+    "$oid": "67391c74c5ebc9dee0799ec5"
+  },
+  "Puntos": 0,
+  "PartidosJugados": 2,
+  "Ganados": 0,
+  "Empatados": 0,
+  "Perdidos": 2,
+  "GolesAFavor": 2,
+  "GolesEnContra": 6,
+  "DiferenciaGoles": -4
+}]
